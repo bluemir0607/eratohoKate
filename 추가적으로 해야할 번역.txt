@@ -1,0 +1,9 @@
+erb/SCENARIO/TRAIN_JUNKO.ERB
+erb/SCENARIO/JUNKO_EVENT.ERB
+erb/SPECIAL_TALENT.ERB
+erb/EXTRACRRI/EXTRA_MOVE.ERB
+
+적이 쓰는 스킬, 번역해야함
+
+erb/com 폴더
+erb/work 폴더 검토필요
